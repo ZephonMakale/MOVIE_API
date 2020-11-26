@@ -12,7 +12,7 @@ class Config:
 
 class ProdConfig(Config):
     """
-    production configuration child class
+    production configuration child clas
 
     Args:
        config: The parent configuration class with general configuration settings
